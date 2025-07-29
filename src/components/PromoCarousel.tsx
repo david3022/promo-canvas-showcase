@@ -1,9 +1,9 @@
 const PromoCarousel = () => {
   const promoTexts = [
-    "🔥 OFERTAS ESPECIALES - HASTA 50% DE DESCUENTO",
-    "✨ ENVÍO GRATIS EN COMPRAS MAYORES A $50",
-    "🎉 NUEVA COLECCIÓN DISPONIBLE AHORA",
-    "💎 PRODUCTOS PREMIUM AL MEJOR PRECIO",
+    "🔥 Bingo todos los JUEVES y DOMINGOS",
+    "✨ PAGOS en 4 horas",
+    "🎉 LOTERIA TODOS LOS DIAS",
+    "💎 A las 11 am  3pm  y 7pm",
   ];
 
   return (

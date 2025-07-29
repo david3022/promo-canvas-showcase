@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import product1 from '@/assets/product1.jpg';
-import product3 from '@/assets/product3.jpg';
+import product1 from '@/assets/bingo.jpg';
+import product3 from '@/assets/banner3.jpg';
 
 const FlipCards = () => {
   const [centerCard, setCenterCard] = useState(0);
@@ -8,13 +8,13 @@ const FlipCards = () => {
   const cards = [
     {
       image: product1,
-      title: "Producto Premium",
-      description: "Descubre la calidad excepcional de nuestros productos premium"
+      title: "Resultados del Lunes",
+      description: "Los ganadores ya pueden reclamar sus premios"
     },
     {
       image: product3,
-      title: "Innovación Tecnológica",
-      description: "La última tecnología al alcance de tus manos"
+      title: "Resultados del Martes",
+      description: "Comunicate con nostros para reclamar tus premios"
     }
   ];
 

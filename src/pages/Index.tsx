@@ -23,8 +23,8 @@ const Index = () => {
       
       {/* Sección 4: Imagen 100% width, 20vh */}
       <ImageSection 
-        title="Experiencia Premium"
-        description="Calidad excepcional en cada detalle"
+        title="Mas de 1.000 GANADORES"
+        description="Tú eres el próximo"
       />
       
       {/* Sección 5: Cards 3D interactivas */}
@@ -32,8 +32,8 @@ const Index = () => {
       
       {/* Sección 6: Otra imagen destacada */}
       <ImageSection 
-        title="Innovación Constante"
-        description="Siempre a la vanguardia de la tecnología"
+        title="MARTES y VIERNES de PóKER"
+        description="Demuestra tu habilidad"
       />
       
       {/* Sección 7: Contacto */}
