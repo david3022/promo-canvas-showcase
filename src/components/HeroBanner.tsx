@@ -9,18 +9,18 @@ const HeroBanner = () => {
   const banners = [
     {
       image: banner1,
-      title: "Ofertas Increíbles",
-      subtitle: "Hasta 50% de descuento en productos seleccionados"
+      title: "Lotería nro 1 de Venezuela",
+      subtitle: "Juega tu número de la suerte"
     },
     {
       image: banner2,
-      title: "Productos Premium",
-      subtitle: "Calidad excepcional a precios únicos"
+      title: "Todos los días nuevos Ganadores",
+      subtitle: "Pagos a todos los Bancos del país"
     },
     {
       image: banner3,
-      title: "Innovación Tecnológica",
-      subtitle: "Lo último en tendencias y tecnología"
+      title: "Diferentes formas de ganar",
+      subtitle: "Pruebalo ya"
     }
   ];
 
